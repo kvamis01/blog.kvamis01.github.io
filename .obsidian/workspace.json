@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/_Draft.md",
+                "file": "content/post/Perfectionism is an act of cowardice (test).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_Draft"
+              "title": "Perfectionism is an act of cowardice (test)"
             }
           }
         ]
@@ -164,11 +164,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "8bf62c07190a35a4",
   "lastOpenFiles": [
+    "content/post/_Draft.md",
     "CNAME",
     "public/tags/austinkleon/index.xml",
     "public/tags/writing/index.xml",
@@ -179,8 +181,6 @@
     "public/tags/writing/page/1/index.html",
     "public/tags/writing/page/1",
     "public/tags/writing/page",
-    "public/tags/vanneistat/page/1/index.html",
-    "content/post/Perfectionism is an act of cowardice.md",
-    "content/post/_Draft.md"
+    "content/post/Perfectionism is an act of cowardice (test).md"
   ]
 }
