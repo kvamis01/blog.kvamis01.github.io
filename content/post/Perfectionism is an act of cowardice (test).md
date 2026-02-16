@@ -11,7 +11,7 @@ tags:
   - vanneistat
   - austinkleon
   - iraglass
-draft: true
+draft: false
 ---
 
 I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.
