@@ -19,7 +19,7 @@ He can get ranty. He can be cranky. He has plenty of opinions I don’t agree wi
 
 His latest, about the struggles of perfectionism as a creative person and working toward “good enough” or “excellent,” is so relatable:
 
-[https://www.youtube.com/watch?v=dBqK6e9A9bE](https://www.youtube.com/watch?v=dBqK6e9A9bE)
+{{< youtube dBqK6e9A9bE >}}
 
 I usually operate in the “good enough” camp (ESPECIALLY blogging) with regular forays into attempting excellence (usually for work).
 
