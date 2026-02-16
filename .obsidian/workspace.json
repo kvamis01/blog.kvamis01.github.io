@@ -11,14 +11,10 @@
             "id": "57b2cd0a1b7a9afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Testing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "New tab"
             }
           }
         ]
@@ -170,33 +166,30 @@
   },
   "active": "57b2cd0a1b7a9afa",
   "lastOpenFiles": [
-    "content/post/Testing.md",
-    "content/post/Perfectionism is an act of cowardice (test).md",
     "themes/hugo-theme-cleanwhite/theme.toml",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-5.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-btn.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-50.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-2.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-50.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-100.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-10.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-1.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-btn.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-2.png",
+    "themes/hugo-theme-cleanwhite/static/css/fonts/fontawesome-webfont.woff2",
+    "themes/hugo-theme-cleanwhite/static/css/fonts/fontawesome-webfont.woff",
+    "themes/hugo-theme-cleanwhite/static/css/fonts/fontawesome-webfont.ttf",
+    "themes/hugo-theme-cleanwhite/static/css/fonts/fontawesome-webfont.eot",
+    "themes/hugo-theme-cleanwhite/static/css/fonts/FontAwesome.otf",
     "themes/hugo-theme-cleanwhite/static/webfonts/fa-solid-900.woff2",
     "themes/hugo-theme-cleanwhite/static/webfonts/fa-brands-400.woff2",
     "themes/hugo-theme-cleanwhite/static/webfonts/fa-brands-400.woff",
-    "themes/hugo-theme-cleanwhite/static/webfonts",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-1.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-10.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-btn.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-5.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-50.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-2.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-100.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-btn.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-10.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-50.png",
-    "themes/hugo-theme-cleanwhite/static/img/reward",
-    "themes/hugo-theme-cleanwhite/static/img/favicon.ico",
-    "themes/hugo-theme-cleanwhite/static/img",
-    "themes/hugo-theme-cleanwhite/static/js/jquery.js",
-    "themes/hugo-theme-cleanwhite/static/js/hux-blog.js",
-    "themes/hugo-theme-cleanwhite/README.md",
-    "themes/hugo-theme-cleanwhite/archetypes/post.md",
+    "themes/hugo-theme-cleanwhite/static/js/reward.js",
+    "themes/hugo-theme-cleanwhite/static/js/production.min.js",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2025-07-06-mathematical-formulae.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-02-istio08.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-24-set_up_my_ubuntu_desktop.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-service_2_service_auth.md",
@@ -215,6 +208,9 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-01-02-nginmesh-install.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-28-access-application-from-outside.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-08-istio-canary-release.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-04-istio-install_and_example.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-03-hello-world.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/archive/index.md"
   ]
 }
