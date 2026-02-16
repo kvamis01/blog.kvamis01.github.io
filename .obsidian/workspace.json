@@ -166,17 +166,19 @@
   },
   "active": "57b2cd0a1b7a9afa",
   "lastOpenFiles": [
+    "public/draft-posts/index.xml",
+    "public/draft-posts/testing/index.html",
+    "public/draft-posts/testing",
+    "public/draft-posts/index.html",
+    "public/draft-posts",
+    "content/draft posts/Testing.md",
+    "content/draft posts/_Draft.md",
+    "content/draft posts",
+    "content/untitled folder",
     "index.html",
     "docs/index.xml",
     "docs/tags/index.xml",
     "docs/tags/writing/index.xml",
-    "docs/tags/creativity/index.xml",
-    "docs/tags/vanneistat/index.xml",
-    "docs/tags/perfectionism/index.xml",
-    "docs/post/index.xml",
-    "docs/search/index.xml",
-    "docs/tags/austinkleon/index.xml",
-    "docs/categories/index.xml",
     "docs/img/reward/wechat-btn.png",
     "docs/img/reward/wechat-50.png",
     "docs/img/reward/wechat-5.png",
@@ -209,8 +211,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-28-access-application-from-outside.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-08-istio-canary-release.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-04-istio-install_and_example.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-03-hello-world.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/archive/index.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-04-istio-install_and_example.md"
   ]
 }
