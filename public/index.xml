@@ -17,17 +17,17 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hi-there-&#34;&gt;Hi there! 👋&lt;/h3&gt;&#xA;&lt;p&gt;Hi, I’m Isak - a Minnesota-based writer interested in climate, decarbonization, and wild places.&lt;/p&gt;&#xA;&lt;p&gt;This is my blog where I show my work, learn in public, and write for fun. It&amp;rsquo;s intentionally broad. I write about creativity, the outdoors, climate, reading —— things I&amp;rsquo;m curious bout. Maybe you&amp;rsquo;ll find something interesting, too.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to know more about me professionally, head to &lt;a href=&#34;https://www.isakkvam.com/&#34;&gt;my main site&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/search/placeholder/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hi-there-&#34;&gt;Hi there! 👋&lt;/h3&gt;&#xA;&lt;p&gt;Hi, I’m Isak - a Minnesota-based writer interested in climate, decarbonization, and wild places.&lt;/p&gt;&#xA;&lt;p&gt;This is my blog where I show my work, learn in public, and write for fun. It&amp;rsquo;s intentionally broad. I write about creativity, the outdoors, climate, reading —— things I&amp;rsquo;m curious bout. Maybe you&amp;rsquo;ll find something interesting, too.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to know more about me professionally, head to &lt;a href=&#34;https://www.isakkvam.com/&#34;&gt;my main site&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posts Archive</title>

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6eab1504784f191b",
+        "id": "c76f3001a28fbec5",
         "type": "tabs",
         "children": [
           {
-            "id": "2bffddd59b427aa2",
+            "id": "4e80caed76d17f34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Testing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "New tab"
             }
           }
         ]
@@ -168,21 +164,53 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "2bffddd59b427aa2",
+  "active": "4e80caed76d17f34",
   "lastOpenFiles": [
-    "public/post/testing/index.html",
-    "public/post/testing",
-    "content/post/Perfectionism is an act of cowardice (test).md",
-    "content/post/Testing.md",
-    "CNAME",
-    "public/post/perfectionism-is-an-act-of-cowardice-test/index.html",
-    "public/post/perfectionism-is-an-act-of-cowardice-test",
-    "content/post/_Draft.md",
-    "public/CNAME",
-    "static/CNAME",
-    "public/post/_draft-1/index.html",
-    "public/post/_draft-1",
-    "static/css/custom.css",
-    "static/css"
+    "themes/hugo-theme-cleanwhite/theme.toml",
+    "themes/hugo-theme-cleanwhite/static/webfonts/fa-solid-900.woff2",
+    "themes/hugo-theme-cleanwhite/static/webfonts/fa-brands-400.woff2",
+    "themes/hugo-theme-cleanwhite/static/webfonts/fa-brands-400.woff",
+    "themes/hugo-theme-cleanwhite/static/webfonts",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-1.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-10.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-btn.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-5.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-50.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-2.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-100.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-btn.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/wechat-10.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward/alipay-50.png",
+    "themes/hugo-theme-cleanwhite/static/img/reward",
+    "themes/hugo-theme-cleanwhite/static/img/favicon.ico",
+    "themes/hugo-theme-cleanwhite/static/img",
+    "themes/hugo-theme-cleanwhite/static/js/jquery.js",
+    "themes/hugo-theme-cleanwhite/static/js/hux-blog.js",
+    "themes/hugo-theme-cleanwhite/static/js/jquerymigrate.js",
+    "themes/hugo-theme-cleanwhite/README.md",
+    "themes/hugo-theme-cleanwhite/archetypes/post.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2025-07-06-mathematical-formulae.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-02-istio08.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-24-set_up_my_ubuntu_desktop.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-service_2_service_auth.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-istio-auto-injection-with-webhook.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-external_system_auth.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-22-user_authentication_authorization.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-21-algolia-integration-with-jekyll.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-01-may-day-jiulonghu.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-16-using-helm-to-deploy-to-kubernetes.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-11-service-mesh-vs-api-gateway.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-29-what-is-service-mesh-and-istio.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-13-use-docker-behind-http-proxy.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-02-09-vim-tips.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-02-09-docker-without-sudo.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-02-03-authentication-and-authorization-of-microservice.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-01-02-nginmesh-install.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-28-access-application-from-outside.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-08-istio-canary-release.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md",
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-04-istio-install_and_example.md"
   ]
 }

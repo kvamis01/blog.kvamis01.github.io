@@ -1,3 +1,7 @@
+---
+title: "About"
+layout: "page"
+---
 ## About Me
 ### Hi there! 👋
 

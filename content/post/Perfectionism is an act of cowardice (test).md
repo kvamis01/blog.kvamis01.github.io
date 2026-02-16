@@ -13,7 +13,6 @@ tags:
   - iraglass
 draft: false
 ---
-
 I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.
 
 He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.
