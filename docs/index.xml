@@ -1,6 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Isak's Blog</title><link>https://blog.isakkvam.com/</link><description>Recent content on Isak's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.isakkvam.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Perfection is an act of cowardice</title><link>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</guid><description>&lt;p>I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p>
-&lt;p>He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.&lt;/p></description></item><item><title/><link>https://blog.isakkvam.com/search/placeholder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/search/placeholder/</guid><description/></item><item><title>About</title><link>https://blog.isakkvam.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/about/</guid><description>&lt;h2 id="about-me">About Me&lt;/h2>
-&lt;h3 id="hi-there-">Hi there! 👋&lt;/h3>
-&lt;p>Hi, I’m Isak - a Minnesota-based writer interested in climate, decarbonization, and wild places.&lt;/p>
-&lt;p>This is my blog where I show my work, learn in public, and write for fun. It&amp;rsquo;s intentionally broad. I write about creativity, the outdoors, climate, reading —— things I&amp;rsquo;m curious bout. Maybe you&amp;rsquo;ll find something interesting, too.&lt;/p>
-&lt;p>If you&amp;rsquo;d like to know more about me professionally, head to &lt;a href="https://www.isakkvam.com/">my main site&lt;/a>.&lt;/p></description></item><item><title>Posts Archive</title><link>https://blog.isakkvam.com/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/archive/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isak&#39;s Blog</title>
+    <link>https://blog.isakkvam.com/</link>
+    <description>Recent content on Isak&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.isakkvam.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perfection is an act of cowardice</title>
+      <link>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</guid>
+      <description>&lt;p&gt;I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p&gt;&#xA;&lt;p&gt;He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.isakkvam.com/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://blog.isakkvam.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hi-there-&#34;&gt;Hi there! 👋&lt;/h3&gt;&#xA;&lt;p&gt;Hi, I’m Isak - a Minnesota-based writer interested in climate, decarbonization, and wild places.&lt;/p&gt;&#xA;&lt;p&gt;This is my blog where I show my work, learn in public, and write for fun. It&amp;rsquo;s intentionally broad. I write about creativity, the outdoors, climate, reading —— things I&amp;rsquo;m curious bout. Maybe you&amp;rsquo;ll find something interesting, too.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;d like to know more about me professionally, head to &lt;a href=&#34;https://www.isakkvam.com/&#34;&gt;my main site&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://blog.isakkvam.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

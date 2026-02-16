@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Isak's Blog</title><link>https://blog.isakkvam.com/tags/</link><description>Recent content in Tags on Isak's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.isakkvam.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Austinkleon</title><link>https://blog.isakkvam.com/tags/austinkleon/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/austinkleon/</guid><description/></item><item><title>Creativity</title><link>https://blog.isakkvam.com/tags/creativity/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/creativity/</guid><description/></item><item><title>Iraglass</title><link>https://blog.isakkvam.com/tags/iraglass/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/iraglass/</guid><description/></item><item><title>Perfectionism</title><link>https://blog.isakkvam.com/tags/perfectionism/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/perfectionism/</guid><description/></item><item><title>Vanneistat</title><link>https://blog.isakkvam.com/tags/vanneistat/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/vanneistat/</guid><description/></item><item><title>Writing</title><link>https://blog.isakkvam.com/tags/writing/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/tags/writing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Isak&#39;s Blog</title>
+    <link>https://blog.isakkvam.com/tags/</link>
+    <description>Recent content in Tags on Isak&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.isakkvam.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Austinkleon</title>
+      <link>https://blog.isakkvam.com/tags/austinkleon/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/austinkleon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Creativity</title>
+      <link>https://blog.isakkvam.com/tags/creativity/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/creativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iraglass</title>
+      <link>https://blog.isakkvam.com/tags/iraglass/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/iraglass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perfectionism</title>
+      <link>https://blog.isakkvam.com/tags/perfectionism/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/perfectionism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vanneistat</title>
+      <link>https://blog.isakkvam.com/tags/vanneistat/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/vanneistat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://blog.isakkvam.com/tags/writing/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.isakkvam.com/tags/writing/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
