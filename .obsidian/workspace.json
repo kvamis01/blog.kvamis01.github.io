@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c76f3001a28fbec5",
+        "id": "31b8938d34c5bd6c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e80caed76d17f34",
+            "id": "57b2cd0a1b7a9afa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,10 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "4e80caed76d17f34",
+  "active": "57b2cd0a1b7a9afa",
   "lastOpenFiles": [
+    "content/post/Testing.md",
+    "content/post/Perfectionism is an act of cowardice (test).md",
     "themes/hugo-theme-cleanwhite/theme.toml",
     "themes/hugo-theme-cleanwhite/static/webfonts/fa-solid-900.woff2",
     "themes/hugo-theme-cleanwhite/static/webfonts/fa-brands-400.woff2",
@@ -186,7 +188,6 @@
     "themes/hugo-theme-cleanwhite/static/img",
     "themes/hugo-theme-cleanwhite/static/js/jquery.js",
     "themes/hugo-theme-cleanwhite/static/js/hux-blog.js",
-    "themes/hugo-theme-cleanwhite/static/js/jquerymigrate.js",
     "themes/hugo-theme-cleanwhite/README.md",
     "themes/hugo-theme-cleanwhite/archetypes/post.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md",
@@ -210,7 +211,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-01-02-nginmesh-install.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-28-access-application-from-outside.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-08-istio-canary-release.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-04-istio-install_and_example.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2017-11-07-istio-traffic-shifting.md"
   ]
 }

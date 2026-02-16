@@ -5,6 +5,6 @@ subtitle: Subtitlenew post
 date: 2024-02-22
 image:
 tags:
-draft: true
+draft: false
 ---
 Text.asdf
