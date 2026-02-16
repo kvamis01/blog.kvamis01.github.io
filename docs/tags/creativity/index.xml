@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Creativity on Isak's Blog</title><link>https://blog.isakkvam.com/tags/creativity/</link><description>Recent content in Creativity on Isak's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.isakkvam.com/tags/creativity/index.xml" rel="self" type="application/rss+xml"/><item><title>Perfection is an act of cowardice</title><link>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice/</guid><description>&lt;p>I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p>
-&lt;p>He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creativity on Isak&#39;s Blog</title>
+    <link>http://localhost:1313/tags/creativity/</link>
+    <description>Recent content in Creativity on Isak&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perfection is an act of cowardice</title>
+      <link>http://localhost:1313/post/perfectionism-is-an-act-of-cowardice/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/perfectionism-is-an-act-of-cowardice/</guid>
+      <description>&lt;p&gt;I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p&gt;&#xA;&lt;p&gt;He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.&lt;/p&gt;&#xA;&lt;p&gt;His latest, about the struggles of perfectionism as a creative person and working toward “good enough” or “excellent,” is so relatable:&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dBqK6e9A9bE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;I usually operate in the “good enough” camp (ESPECIALLY blogging) with regular forays into attempting excellence (usually for work).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

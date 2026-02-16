@@ -5,6 +5,7 @@ languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 publishDir = "docs"
+summaryLength = 120
 
 [services]
   # Enable comments by entering your Disqus shortname
@@ -27,7 +28,7 @@ home = ["HTML", "RSS", "Algolia"]
   slogan = ""
   upstreamAttribution = true
 
-  image_404 = "img/404-bg.jpg"
+  image_404 = ""
   title_404 = "Whoa, I haven't written that page yet. Consider this your 404 warning."
   omit_categories = false
 
@@ -37,7 +38,7 @@ home = ["HTML", "RSS", "Algolia"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
+  algolia_search = false
   algolia_appId = ""
   algolia_indexName = ""
   algolia_apiKey = ""
@@ -87,23 +88,6 @@ home = ["HTML", "RSS", "Algolia"]
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
-
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
-
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
 
   [[params.additional_menus]]
   title =  "ARCHIVE"

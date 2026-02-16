@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31b8938d34c5bd6c",
+        "id": "3fb0594d8521c529",
         "type": "tabs",
         "children": [
           {
-            "id": "57b2cd0a1b7a9afa",
+            "id": "c1d20fef8d630e3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Perfectionism is an act of cowardice.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Perfectionism is an act of cowardice"
-            }
-          },
-          {
-            "id": "95f7c04319cd6515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/_Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Test"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,12 +164,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "95f7c04319cd6515",
+  "active": "c1d20fef8d630e3a",
   "lastOpenFiles": [
+    "docs/custom.css",
+    "static/custom.css",
+    "content/post/Perfectionism is an act of cowardice.md",
+    "content/post/_Test.md",
     "content/post/New test..md",
     "docs/post/new-test./index.html",
     "docs/post/new-test.",
-    "content/post/_Test.md",
     "public/index.html",
     "docs/post/perfectionism-is-an-act-of-cowardice/index.html",
     "docs/post/perfectionism-is-an-act-of-cowardice",
@@ -196,7 +180,6 @@
     "--docs/tags/writing/index.xml",
     "--docs/index.xml",
     "--docs/tags/iraglass/index.xml",
-    "--docs/tags/perfectionism/index.xml",
     "--docs/img/reward/wechat-btn.png",
     "--docs/img/reward/wechat-50.png",
     "--docs/img/reward/alipay-btn.png",
@@ -207,7 +190,6 @@
     "--docs/img/reward/wechat-1.png",
     "--docs/img/reward/alipay-50.png",
     "--docs/img/reward/alipay-5.png",
-    "content/post/Perfectionism is an act of cowardice.md",
     "content/archive/index.md",
     "content/about/index-zh.md",
     "content/about/index.md",

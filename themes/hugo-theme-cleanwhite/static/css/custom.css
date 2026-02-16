@@ -165,7 +165,7 @@ ol {
   padding: 0;
   margin: 1.5em;
 }
-ul ul, ul ol, 
+ul ul, ul ol,
 ol ul,
 ol ol {
   margin: 0 1.5em;
@@ -232,7 +232,7 @@ th {
 .alignleft,
 .aligncenter,
 .alignnone,
-.size-auto, 
+.size-auto,
 .size-full,
 .size-large,
 .size-medium,
@@ -2710,3 +2710,9 @@ li.pingback:first-child {
   }
 }
 
+.post-content-preview,
+.post-content-preview p{
+    font-size:13px
+    font-style:normal;
+    color:inherit
+}
