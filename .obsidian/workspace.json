@@ -170,6 +170,7 @@
   },
   "active": "2bffddd59b427aa2",
   "lastOpenFiles": [
+    "static/CNAME",
     "public/CNAME",
     "content/post/_Draft 1.md",
     "content/post/_Draft.md",
@@ -182,7 +183,6 @@
     "layouts/partials",
     "layouts/untitled folder",
     "assets/css/custom.css",
-    "assets/css/untitled folder",
-    "assets/css"
+    "assets/css/untitled folder"
   ]
 }
