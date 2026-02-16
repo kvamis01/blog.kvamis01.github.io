@@ -170,6 +170,7 @@
   },
   "active": "2bffddd59b427aa2",
   "lastOpenFiles": [
+    "CNAME",
     "public/post/perfectionism-is-an-act-of-cowardice-test/index.html",
     "public/post/perfectionism-is-an-act-of-cowardice-test",
     "content/post/_Draft.md",
@@ -182,7 +183,6 @@
     "static/css/custom.css",
     "static/css",
     "layouts/partials/head.html",
-    "layouts/partials",
-    "layouts/untitled folder"
+    "layouts/partials"
   ]
 }
