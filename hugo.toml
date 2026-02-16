@@ -19,7 +19,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/home-library.jpg"
   SEOTitle = "Isak's Blog"
   description = "Blog of the outdoor and climate writer."
   keyword = "Isak's blog"
@@ -42,7 +42,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Reader, Writer, Outdoor Enthusiast"
+  sidebar_about_description = "Reader, writer, outdoor enthusiast"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/Isak-Headshot-Circle.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -107,9 +107,7 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
-  [[params.additional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
+
   [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/about/"
