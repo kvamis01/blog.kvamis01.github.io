@@ -2,47 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/austinkleon/</loc>
+    <loc>https://blog.isakkvam.com/tags/austinkleon/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/creativity/</loc>
+    <loc>https://blog.isakkvam.com/tags/creativity/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/iraglass/</loc>
+    <loc>https://blog.isakkvam.com/tags/iraglass/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.isakkvam.com/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/testing/</loc>
+    <loc>https://blog.isakkvam.com/post/perfectionism-is-an-act-of-cowardice-test/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/perfectionism-is-an-act-of-cowardice-test/</loc>
+    <loc>https://blog.isakkvam.com/tags/perfectionism/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/perfectionism/</loc>
+    <loc>https://blog.isakkvam.com/post/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://blog.isakkvam.com/tags/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.isakkvam.com/tags/vanneistat/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vanneistat/</loc>
+    <loc>https://blog.isakkvam.com/tags/writing/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
-    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+    <loc>https://blog.isakkvam.com/search/placeholder/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/placeholder/</loc>
+    <loc>https://blog.isakkvam.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://blog.isakkvam.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.isakkvam.com/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.isakkvam.com/search/</loc>
   </url>
 </urlset>
