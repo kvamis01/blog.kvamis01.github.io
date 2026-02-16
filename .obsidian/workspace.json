@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/_Test.md",
+                "file": "content/post/New test..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Test"
+              "title": "New test."
             }
           }
         ],
@@ -185,6 +185,8 @@
   },
   "active": "95f7c04319cd6515",
   "lastOpenFiles": [
+    "content/post/_Test.md",
+    "content/post/New test..md",
     "public/index.html",
     "docs/post/perfectionism-is-an-act-of-cowardice/index.html",
     "docs/post/perfectionism-is-an-act-of-cowardice",
@@ -195,7 +197,6 @@
     "--docs/tags/perfectionism/index.xml",
     "--docs/tags/vanneistat/index.xml",
     "--docs/tags/austinkleon/index.xml",
-    "--docs/tags/index.xml",
     "--docs/img/reward/wechat-btn.png",
     "--docs/img/reward/wechat-50.png",
     "--docs/img/reward/alipay-btn.png",
@@ -207,7 +208,6 @@
     "--docs/img/reward/alipay-50.png",
     "--docs/img/reward/alipay-5.png",
     "content/post/Perfectionism is an act of cowardice.md",
-    "content/post/_Test.md",
     "content/archive/index.md",
     "content/about/index-zh.md",
     "content/about/index.md",
