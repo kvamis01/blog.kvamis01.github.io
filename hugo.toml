@@ -1,4 +1,4 @@
-baseurl = "https://blog.isakkvam.com"
+baseurl = "https://blog.isakkvam.com/"
 title = "Isak's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
