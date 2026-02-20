@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Cory Doctorow's writing routine.md",
+                "file": "content/post/Friday Favorites 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cory Doctorow's writing routine"
+              "title": "Friday Favorites 1"
             }
           }
         ]
@@ -170,20 +170,21 @@
   },
   "active": "c1d20fef8d630e3a",
   "lastOpenFiles": [
-    "content/post/Perfectionism is an act of cowardice.md",
-    "content/post/Cory Doctorow's writing routine.md",
     "content/post/_Test.md",
-    "docs/custom.css",
-    "static/custom.css",
+    "content/post/Friday Favorites 1.md",
+    "content/post/Cory Doctorow's writing routine.md",
+    "docs/tags/corydoctorow/index.xml",
+    "docs/tags/blogging/index.xml",
+    "docs/tags/corydoctorow/page/1/index.html",
+    "docs/tags/corydoctorow/page/1",
+    "docs/tags/corydoctorow/page",
+    "docs/tags/corydoctorow/index.html",
+    "docs/tags/corydoctorow",
+    "docs/tags/blogging/page/1/index.html",
+    "docs/tags/blogging/page/1",
+    "docs/tags/blogging/page",
+    "content/post/Perfectionism is an act of cowardice.md",
     "content/post/New test..md",
-    "docs/post/new-test./index.html",
-    "docs/post/new-test.",
-    "public/index.html",
-    "docs/post/perfectionism-is-an-act-of-cowardice/index.html",
-    "docs/post/perfectionism-is-an-act-of-cowardice",
-    "--docs/tags/creativity/index.xml",
-    "--docs/tags/writing/index.xml",
-    "--docs/index.xml",
     "--docs/img/reward/wechat-btn.png",
     "--docs/img/reward/wechat-50.png",
     "--docs/img/reward/alipay-btn.png",
@@ -214,7 +215,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-16-using-helm-to-deploy-to-kubernetes.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-11-service-mesh-vs-api-gateway.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-29-what-is-service-mesh-and-istio.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-13-use-docker-behind-http-proxy.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-02-09-vim-tips.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-13-use-docker-behind-http-proxy.md"
   ]
 }
