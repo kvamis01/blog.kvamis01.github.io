@@ -2,7 +2,7 @@
 layout: post
 title: Friday Favorites 1
 subtitle: 10 interesting things I'm recommending this week
-date: 2024-02-22
+date: 2026-02-20
 image:
 tags:
   - fridayfavorites

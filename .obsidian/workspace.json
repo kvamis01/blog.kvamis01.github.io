@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 1.md",
+                "file": "content/post/Friday Favorites 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 1"
+              "title": "Friday Favorites 2"
             }
           }
         ]
@@ -170,19 +170,20 @@
   },
   "active": "c1d20fef8d630e3a",
   "lastOpenFiles": [
-    "content/post/_Test.md",
     "content/post/Friday Favorites 1.md",
+    "content/post/Friday Favorites 2.md",
     "content/post/Cory Doctorow's writing routine.md",
+    "content/post/_Test.md",
+    "docs/tags/fridayfavorites/index.xml",
+    "docs/tags/fridayfavorites/page/1/index.html",
+    "docs/tags/fridayfavorites/page/1",
+    "docs/tags/fridayfavorites/page",
+    "docs/tags/fridayfavorites/index.html",
+    "docs/tags/fridayfavorites",
+    "docs/post/friday-favorites-1/index.html",
+    "docs/post/friday-favorites-1",
     "docs/tags/corydoctorow/index.xml",
     "docs/tags/blogging/index.xml",
-    "docs/tags/corydoctorow/page/1/index.html",
-    "docs/tags/corydoctorow/page/1",
-    "docs/tags/corydoctorow/page",
-    "docs/tags/corydoctorow/index.html",
-    "docs/tags/corydoctorow",
-    "docs/tags/blogging/page/1/index.html",
-    "docs/tags/blogging/page/1",
-    "docs/tags/blogging/page",
     "content/post/Perfectionism is an act of cowardice.md",
     "content/post/New test..md",
     "--docs/img/reward/wechat-btn.png",
@@ -214,7 +215,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-01-may-day-jiulonghu.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-16-using-helm-to-deploy-to-kubernetes.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-11-service-mesh-vs-api-gateway.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-29-what-is-service-mesh-and-istio.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-13-use-docker-behind-http-proxy.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-29-what-is-service-mesh-and-istio.md"
   ]
 }
