@@ -2722,6 +2722,7 @@ li.pingback:first-child {
     text-decoration: none
 }
 
-.post-container li {
+.post-container ul li,
+.post-container ol li {
     margin-bottom: 1.5em;
 }
