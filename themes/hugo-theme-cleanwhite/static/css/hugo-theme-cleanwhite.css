@@ -90,6 +90,9 @@ a img:hover,a img:focus{
 article{
     overflow:hidden;
 }
+article li{
+  padding-bottom:25px;
+}
 blockquote{
     color:gray;
     font-style:italic;
