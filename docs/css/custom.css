@@ -2716,3 +2716,7 @@ li.pingback:first-child {
     font-style:normal;
     color:inherit
 }
+
+.post-content-preview:hover{
+    color:#fff
+}

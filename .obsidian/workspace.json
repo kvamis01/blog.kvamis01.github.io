@@ -170,6 +170,8 @@
   },
   "active": "c1d20fef8d630e3a",
   "lastOpenFiles": [
+    "docs/post/friday-favorites-2/index.html",
+    "docs/post/friday-favorites-2",
     "content/post/Friday Favorites 1.md",
     "content/post/Friday Favorites 2.md",
     "content/post/Cory Doctorow's writing routine.md",
@@ -183,7 +185,6 @@
     "docs/post/friday-favorites-1/index.html",
     "docs/post/friday-favorites-1",
     "docs/tags/corydoctorow/index.xml",
-    "docs/tags/blogging/index.xml",
     "content/post/Perfectionism is an act of cowardice.md",
     "content/post/New test..md",
     "--docs/img/reward/wechat-btn.png",
@@ -214,7 +215,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-21-algolia-integration-with-jekyll.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-01-may-day-jiulonghu.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-16-using-helm-to-deploy-to-kubernetes.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-11-service-mesh-vs-api-gateway.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-03-29-what-is-service-mesh-and-istio.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-04-11-service-mesh-vs-api-gateway.md"
   ]
 }
