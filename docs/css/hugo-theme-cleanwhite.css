@@ -186,6 +186,9 @@ pre code{
     margin:0;
     margin-bottom:5px
 }
+.post-container li{
+  margin-bottom:1.5em
+}
 .post-container li h1,.post-container li h2,.post-container li h3,.post-container li h4,.post-container li h5,.post-container li h6{
     line-height:2;
     margin-top:20px
