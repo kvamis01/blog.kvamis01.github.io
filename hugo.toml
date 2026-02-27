@@ -97,16 +97,6 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ABOUT"
   href =  "/about/"
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
-
 [markup]
   [markup.tableOfContents]
     endLevel = 2
