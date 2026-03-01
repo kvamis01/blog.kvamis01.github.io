@@ -173,8 +173,12 @@
   },
   "active": "645999c7fc97d892",
   "lastOpenFiles": [
-    "templates/blog-post.md.md",
+    "content/post/Perfectionism is an act of cowardice.md",
+    "content/post/Friday Favorites 2.md",
     "content/post/Untitled.md",
+    "docs/post/untitled/index.html",
+    "docs/post/untitled",
+    "templates/blog-post.md.md",
     "content/post/_Test.md",
     "content/post/Untitled 2.md",
     "content/post/Untitled 1.md",
@@ -182,7 +186,6 @@
     "content/post/asdf.md",
     "content/about/index.md",
     "content/about/index-zh.md",
-    "content/post/Friday Favorites 2.md",
     "static/img/Friday Favorites 2.png",
     "static/img/home-library.jpg",
     "docs/img/home-library.jpg",
@@ -195,9 +198,6 @@
     "docs/tags/fridayfavorites/page/1",
     "docs/tags/fridayfavorites/page",
     "docs/tags/fridayfavorites/index.html",
-    "docs/tags/fridayfavorites",
-    "docs/post/friday-favorites-1/index.html",
-    "content/post/Perfectionism is an act of cowardice.md",
     "content/post/New test..md",
     "--docs/img/reward/wechat-btn.png",
     "--docs/img/reward/wechat-50.png",
@@ -217,7 +217,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-24-set_up_my_ubuntu_desktop.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-service_2_service_auth.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-istio-auto-injection-with-webhook.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-external_system_auth.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-22-user_authentication_authorization.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-external_system_auth.md"
   ]
 }

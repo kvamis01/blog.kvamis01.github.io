@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Title
-subtitle: Subtitle
-date: 2024-02-22
+title: Test
+subtitle: Test
+date: 2026-03-01
 image:
 tags:
+  - post
 draft: false
 ---
 Text
