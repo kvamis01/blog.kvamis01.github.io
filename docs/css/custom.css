@@ -6,6 +6,10 @@
     margin-bottom: 1.5em;
 }
 
+.archive-list li {
+    margin-bottom: 0 !important;
+}
+
 .sidebar-container p {
   color: #404040
 }
