@@ -2730,3 +2730,9 @@ li.pingback:first-child {
 .sidebar-container p {
   color: #404040
 }
+
+.post-heading h1,
+.post-heading .subheading,
+.post-heading .meta {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
