@@ -11,14 +11,10 @@
             "id": "86433d59857151dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Testing my publishing environment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Testing my publishing environment"
+              "title": "New tab"
             }
           }
         ]
@@ -171,8 +167,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86433d59857151dd",
+  "active": "ec2d93c7c8a261af",
   "lastOpenFiles": [
+    "docs/post/testing-my-publishing-environment/index.html",
+    "docs/post/testing-my-publishing-environment",
     "content/post/Testing my publishing environment.md",
     "content/post/The year of vonnegut..md",
     "docs/tags/vonnegut/index.xml",
@@ -184,7 +182,6 @@
     "docs/page/2/index.html",
     "docs/page/2",
     "docs/post/the-year-of-vonnegut./index.html",
-    "docs/post/the-year-of-vonnegut.",
     "content/post/Friday Favorites 2.md",
     "content/post/2026-03-01.md",
     "content/post/Perfectionism is an act of cowardice.md",
