@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "749eea1ad07d507b",
+            "id": "86433d59857151dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/Testing my publishing environment.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Testing my publishing environment"
             }
           }
         ]
@@ -167,32 +171,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "749eea1ad07d507b",
+  "active": "86433d59857151dd",
   "lastOpenFiles": [
-    "content/post/Untitled.md",
-    "content/post/Friday Favorites 2.md",
+    "content/post/Testing my publishing environment.md",
     "content/post/The year of vonnegut..md",
+    "docs/tags/vonnegut/index.xml",
+    "docs/tags/vonnegut/page/1/index.html",
+    "docs/tags/vonnegut/page/1",
+    "docs/tags/vonnegut/page",
+    "docs/tags/vonnegut/index.html",
+    "docs/tags/vonnegut",
+    "docs/page/2/index.html",
+    "docs/page/2",
+    "docs/post/the-year-of-vonnegut./index.html",
+    "docs/post/the-year-of-vonnegut.",
+    "content/post/Friday Favorites 2.md",
     "content/post/2026-03-01.md",
     "content/post/Perfectionism is an act of cowardice.md",
-    "docs/tags/post/index.xml",
-    "docs/tags/post/page/1/index.html",
-    "docs/tags/post/page/1",
-    "docs/tags/post/page",
-    "docs/tags/post/index.html",
-    "docs/tags/post",
-    "docs/post/untitled/index.html",
-    "docs/post/untitled",
     "templates/blog-post.md.md",
     "content/post/_Test.md",
     "content/post/Untitled 2.md",
-    "templates",
     "content/post/asdf.md",
     "content/about/index.md",
     "content/about/index-zh.md",
     "static/img/Friday Favorites 2.png",
     "static/img/home-library.jpg",
     "docs/img/home-library.jpg",
-    "docs/post/friday-favorites-2/index.html",
     "content/post/Friday Favorites 1.md",
     "content/post/Cory Doctorow's writing routine.md",
     "content/post/New test..md",
@@ -213,7 +217,6 @@
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-02-istio08.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-24-set_up_my_ubuntu_desktop.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-service_2_service_auth.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-istio-auto-injection-with-webhook.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-external_system_auth.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-05-23-istio-auto-injection-with-webhook.md"
   ]
 }
