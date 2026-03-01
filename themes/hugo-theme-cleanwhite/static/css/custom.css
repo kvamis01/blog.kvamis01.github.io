@@ -2717,52 +2717,12 @@ li.pingback:first-child {
     color:inherit
 }
 
-/*
 .post-content-preview:hover, .post-content-preview:hover a {
     color:inherit;
     text-decoration: none
-} */
+}
 
 .post-container ul li,
 .post-container ol li {
     margin-bottom: 1.5em;
-}
-
-/* Kill the outer link's hover color everywhere */
-.post-preview > a,
-.post-preview > a:link,
-.post-preview > a:visited,
-.post-preview > a:hover,
-.post-preview > a:focus,
-.post-preview > a:active {
-    color: #404040 !important;
-    text-decoration: none !important;
-    cursor: default !important;
-}
-
-/* But restore normal link appearance for actual links inside the preview */
-.post-content-preview a,
-.post-content-preview a:link,
-.post-content-preview a:visited {
-    color: #337ab7 !important;
-    text-decoration: underline !important;
-    cursor: pointer !important;
-}
-
-.post-content-preview a:hover,
-.post-content-preview a:focus,
-.post-content-preview a:active {
-    color: #0085a1 !important;
-    text-decoration: underline !important;
-    cursor: pointer !important;
-}
-
-/* Also fix the post title hover — you probably want that to still act like a link */
-.post-preview > a h2,
-.post-preview > a h3 {
-    cursor: pointer !important;
-}
-.post-preview > a:hover h2,
-.post-preview > a:hover h3 {
-    color: #0085a1 !important;
 }
