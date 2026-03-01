@@ -2726,3 +2726,7 @@ li.pingback:first-child {
 .post-container ol li {
     margin-bottom: 1.5em;
 }
+
+.sidebar-container p {
+  color: 404040
+}
