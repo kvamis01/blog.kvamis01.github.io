@@ -2710,7 +2710,7 @@ li.pingback:first-child {
   }
 }
 
-.post-content-preview,
+/*.post-content-preview,
 .post-content-preview p{
     font-size:13px
     font-style:normal;
@@ -2720,7 +2720,7 @@ li.pingback:first-child {
 .post-content-preview:hover, .post-content-preview:hover a {
     color:inherit;
     text-decoration: none
-}
+}*/
 
 .post-container ul li,
 .post-container ol li {
