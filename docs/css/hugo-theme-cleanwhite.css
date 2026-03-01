@@ -22,25 +22,25 @@
     }
 }
 .sidebar-container{
-    color:#bfbfbf;
+    color:#404040;
     font-size:15px
 }
 .sidebar-container h5{
-    color:gray;
+    color:#404040;
     padding-bottom:1em
 }
 .sidebar-container h5 a{
-    color:gray!important;
+    color:#404040!important;
     text-decoration:none
 }
 .sidebar-container a{
-    color:#bfbfbf!important
+    color:#404040!important
 }
 .sidebar-container a:hover,.sidebar-container a:active{
     color:#0085a1!important
 }
 .sidebar-container .tags a{
-    border-color:#bfbfbf
+    border-color:##404040
 }
 .sidebar-container .tags a:hover,.sidebar-container .tags a:active{
     border-color:#0085a1
