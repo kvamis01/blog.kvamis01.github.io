@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "content",
-      "template": "templates/blog-post.md.md"
+      "template": "templates/blog-post.md"
     }
   ],
   "enable_file_templates": false,
