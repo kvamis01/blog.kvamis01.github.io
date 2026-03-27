@@ -188,6 +188,10 @@
   },
   "active": "6afebb4d14062ee9",
   "lastOpenFiles": [
+    "docs/tags/fridayfavorites/page/2/index.html",
+    "docs/tags/fridayfavorites/page/2",
+    "docs/post/friday-favorites-6/index.html",
+    "docs/post/friday-favorites-6",
     "content/post/Friday Favorites 5.md",
     "content/post/Friday Favorites 6.md",
     "content/post/Perfectionism is an act of cowardice.md",
@@ -205,9 +209,6 @@
     "content/post/Friday Favorites 2.md",
     "templates/blog-post.md",
     "docs/css/custom-original-one.css",
-    "themes/hugo-theme-cleanwhite/static/css/custom-original-one.css",
-    "docs/css/custom copy.css",
-    "themes/hugo-theme-cleanwhite/static/css/custom copy.css",
     "content/post/Testing my publishing environment.md",
     "content/post/The year of vonnegut..md",
     "content/post/2026-03-01.md",
@@ -232,7 +233,6 @@
     "content/search/placeholder.md",
     "content/draft posts/Testing.md",
     "content/draft posts/_Draft.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md"
   ]
 }
