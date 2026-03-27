@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 5.md",
+                "file": "content/post/Friday Favorites 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 5"
+              "title": "Friday Favorites 6"
             }
           }
         ],
@@ -188,17 +188,20 @@
   },
   "active": "6afebb4d14062ee9",
   "lastOpenFiles": [
-    "content/post/Friday Favorites 4.md",
     "content/post/Friday Favorites 5.md",
+    "content/post/Friday Favorites 6.md",
+    "content/post/Perfectionism is an act of cowardice.md",
+    "content/post/Friday Favorites 1.md",
     "content/post/_Test.md",
+    "docs/post/friday-favorites-5/index.html",
+    "docs/post/friday-favorites-5",
+    "content/post/Friday Favorites 4.md",
     "content/post/Untitled.md",
     "docs/post/friday-favorites-4/index.html",
     "docs/post/friday-favorites-4",
-    "content/post/Perfectionism is an act of cowardice.md",
     "content/post/Friday Favorites 3.md",
     "docs/post/friday-favorites-3/index.html",
     "docs/post/friday-favorites-3",
-    "content/post/Friday Favorites 1.md",
     "content/post/Friday Favorites 2.md",
     "templates/blog-post.md",
     "docs/css/custom-original-one.css",
@@ -206,8 +209,6 @@
     "docs/css/custom copy.css",
     "themes/hugo-theme-cleanwhite/static/css/custom copy.css",
     "content/post/Testing my publishing environment.md",
-    "docs/post/testing-my-publishing-environment/index.html",
-    "docs/post/testing-my-publishing-environment",
     "content/post/The year of vonnegut..md",
     "content/post/2026-03-01.md",
     "templates/blog-post.md.md",
@@ -232,7 +233,6 @@
     "content/draft posts/Testing.md",
     "content/draft posts/_Draft.md",
     "themes/hugo-theme-cleanwhite/exampleSite/content/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md",
-    "themes/hugo-theme-cleanwhite/exampleSite/content/post/2025-07-06-mathematical-formulae.md"
+    "themes/hugo-theme-cleanwhite/exampleSite/content/post/readme.md"
   ]
 }
