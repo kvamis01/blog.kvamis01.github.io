@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/home-library.jpg"
   SEOTitle = "Isak's Blog"
-  description = "Blog of the outdoor and climate writer."
+  description = "Isak is a Minnesota-based writer interested in climate, decarbonization, and wild places."
   keyword = "Isak's blog"
   slogan = ""
   upstreamAttribution = true
