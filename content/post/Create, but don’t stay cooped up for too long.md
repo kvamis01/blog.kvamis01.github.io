@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create, but don’t stay cooped up for too longe
+title: Create, but don’t stay cooped up for too long
 subtitle: What Emerson and Louis L'Amour have to say about homebodies
 date: 2026-04-07
 image:
