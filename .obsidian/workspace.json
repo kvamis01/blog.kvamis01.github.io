@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 8.md",
+                "file": "content/post/Friday Favorites 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 8"
+              "title": "Friday Favorites 9"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "86433d59857151dd",
   "lastOpenFiles": [
-    "content/post/Friday Favorites 7.md",
     "content/post/Friday Favorites 8.md",
+    "content/post/Friday Favorites 9.md",
+    "docs/page/3/index.html",
+    "docs/page/3",
+    "docs/post/friday-favorites-8/index.html",
+    "docs/post/friday-favorites-8",
+    "content/post/Friday Favorites 7.md",
     "content/post/Create, but don’t stay cooped up for too long.md",
     "docs/tags/travel/index.xml",
     "docs/tags/louislamour/index.xml",
@@ -182,10 +187,6 @@
     "docs/tags/emerson/page/1/index.html",
     "docs/tags/emerson/page/1",
     "docs/tags/emerson/page",
-    "docs/tags/travel/page/1/index.html",
-    "docs/tags/travel/page/1",
-    "docs/tags/travel/page",
-    "docs/tags/travel/index.html",
     "content/post/_Test.md",
     "content/post/Friday Favorites 6.md",
     "static/img/tag-bg.jpg",
@@ -217,7 +218,6 @@
     "--docs/img/reward/wechat-2.png",
     "--docs/img/reward/wechat-100.png",
     "content/archive/index.md",
-    "content/search/placeholder.md",
-    "content/draft posts/Testing.md"
+    "content/search/placeholder.md"
   ]
 }
