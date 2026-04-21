@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c401f8e79df843",
+        "id": "82d0af65202e2f89",
         "type": "tabs",
         "children": [
           {
-            "id": "86433d59857151dd",
+            "id": "1d9e67f6d2c61192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 9.md",
+                "file": "content/post/Secondary reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 9"
+              "title": "Secondary reading"
             }
           }
         ]
@@ -171,10 +171,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86433d59857151dd",
+  "active": "1d9e67f6d2c61192",
   "lastOpenFiles": [
-    "content/post/Friday Favorites 8.md",
+    "content/post/Secondary reading.md",
+    "static/img/Pasted image 20260420192951.png",
+    "static/img/Inferno 2.jpeg",
+    "static/img/Inferno 2 1.jpeg",
+    "static/img/Inferno.jpeg",
+    "static/img/EC63365B-E5C2-45E9-A344-2FD30F2480D7_1_201_a.heic",
+    "content/post/_Test.md",
     "content/post/Friday Favorites 9.md",
+    "docs/post/friday-favorites-9/index.html",
+    "docs/post/friday-favorites-9",
+    "content/post/Friday Favorites 8.md",
     "docs/page/3/index.html",
     "docs/page/3",
     "docs/post/friday-favorites-8/index.html",
@@ -184,10 +193,6 @@
     "docs/tags/travel/index.xml",
     "docs/tags/louislamour/index.xml",
     "docs/tags/emerson/index.xml",
-    "docs/tags/emerson/page/1/index.html",
-    "docs/tags/emerson/page/1",
-    "docs/tags/emerson/page",
-    "content/post/_Test.md",
     "content/post/Friday Favorites 6.md",
     "static/img/tag-bg.jpg",
     "templates/blog-post.md",
@@ -212,12 +217,6 @@
     "content/post/Cory Doctorow's writing routine.md",
     "content/post/New test..md",
     "--docs/img/reward/wechat-btn.png",
-    "--docs/img/reward/wechat-50.png",
-    "--docs/img/reward/alipay-btn.png",
-    "--docs/img/reward/wechat-5.png",
-    "--docs/img/reward/wechat-2.png",
-    "--docs/img/reward/wechat-100.png",
-    "content/archive/index.md",
-    "content/search/placeholder.md"
+    "--docs/img/reward/wechat-50.png"
   ]
 }
