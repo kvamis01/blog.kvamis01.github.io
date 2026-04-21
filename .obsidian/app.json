@@ -1,9 +1,9 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/post",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "static/img"
 }
