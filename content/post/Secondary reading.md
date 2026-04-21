@@ -16,10 +16,8 @@ Take Dante’s Inferno. I’ve been reading it here and there this spring, and a
 Instead of putting the book down or speed-reading my way through it, I stopped and searched the internet: _Why do people even like Dante’s Inferno so much?_
 
 Thus began my own descent into ~~hell~~ YouTube, where I watched a [college professor](https://www.youtube.com/watch?v=GfqJi0qevok&t=78s) lecture about why he thinks Dante’s Inferno is the most important book in the world. It was interesting, so next I watched a [booktuber](https://www.youtube.com/watch?v=mfOXhq9--kg) gush about the brutal imagery in the book. Then I remembered someone say Hozier’s “Unreal Unearth” album had references to Dante’s Inferno, so I found a [Tumblr post](https://www.tumblr.com/fawnforevergone/726160838897123328/the-ultimate-list-of-dante-references-in-hoziers) with a big list of them.
-![](../../static/img/Inferno.jpeg)
-![](/static/img/Inferno.jpeg)
-![](/docs/img/Inferno.jpeg)
-![](../../docs/img/Inferno.jpeg)
+![](/img/Inferno.jpeg)
+
 In a strange twist, wondering about why I found “Inferno” uninteresting led me down a path that made it much more interesting.
 
 Maybe we just get more curious about something when we hear others get excited about it. Like enthusiasm is just contagious, and other people’s love for “Inferno” transferred over to me.
