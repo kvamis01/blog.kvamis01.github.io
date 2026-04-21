@@ -24,7 +24,7 @@ Maybe we just get more curious about something when we hear others get excited a
 
 But I think something bigger is going on. Thinking more about what you like or dislike like about a book, then listening to other people have to say about what they liked and disliked is way more fun than just reading a book and moving on to the next.
 
-![](../../static/img/Inferno%202.jpeg)
+![](/img/Inferno%202.jpeg)
 
 If you poke around, you can find TONS of content for whatever book you’re reading — from professional criticism to rambling reviewers to tiny little posts with one thought.
 
