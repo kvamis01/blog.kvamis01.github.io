@@ -5,7 +5,7 @@ subtitle:
 date: 2026-04-21
 image:
 tags:
-draft: true
+draft: false
 ---
 One thing I’ve really enjoyed doing lately is finding articles and lectures and video essays about the book I’m reading. Reading itself is fun — it’s why why read, after all — but I’ve really missed out on how much fun it is to listen to others gush and rant about what you’re reading, too.
 
