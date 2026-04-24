@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Secondary reading.md",
+                "file": "content/post/Friday Favorites 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secondary reading"
+              "title": "Friday Favorites 10"
             }
           }
         ]
@@ -173,13 +173,14 @@
   },
   "active": "1d9e67f6d2c61192",
   "lastOpenFiles": [
+    "content/post/Secondary reading.md",
+    "content/post/Friday Favorites 10.md",
     "docs/img/Pasted image 20260421150619.png",
     "static/img/Pasted image 20260421150619.png",
     "content/post/Perfectionism is an act of cowardice.md",
     "content/post/Friday Favorites 1.md",
     "content/post/Create, but don’t stay cooped up for too long.md",
     "content/post/Cory Doctorow's writing routine.md",
-    "content/post/Secondary reading.md",
     "docs/post/secondary-reading/index.html",
     "docs/post/secondary-reading",
     "docs/img/Inferno.jpeg",
@@ -217,7 +218,6 @@
     "content/about/index.md",
     "content/about/index-zh.md",
     "static/img/Friday Favorites 2.png",
-    "static/img/home-library.jpg",
     "content/post/New test..md"
   ]
 }
