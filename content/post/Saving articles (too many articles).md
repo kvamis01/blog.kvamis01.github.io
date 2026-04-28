@@ -5,7 +5,12 @@ subtitle:
 date: 2026-04-28
 image:
 tags:
-draft: true
+  - austinkleon
+  - nasimtalib
+  - umbertoeco
+  - tsundoku
+  - notion
+draft: false
 ---
 A few weeks ago [Austin Kleon wrote](https://austinkleon.substack.com/p/how-i-get-into-something-new) that when he wants to get into something new, his first step isn’t to search Google but search his email inbox instead. It’s a personal, searchable archive of people you follow — so it usually turns up good recommendations for your new topic.
 
