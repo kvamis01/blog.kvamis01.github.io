@@ -6,6 +6,15 @@ date: 2026-03-27
 image:
 tags:
   - fridayfavorites
+  - brendanleonard
+  - geese
+  - austinkleon
+  - thoreau
+  - transcendentalists
+  - obsidian
+  - morningpages
+  - talkingheads
+  - davefogler
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=H2qb7k8SZLI&list=RDH2qb7k8SZLI&start_radio=1),

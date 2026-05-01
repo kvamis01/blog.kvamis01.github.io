@@ -17,6 +17,7 @@ tags:
   - joevancleave
   - larrymcmurtry
   - vanneistat
+  - dictionary
 draft: false
 ---
 Happy Friday,

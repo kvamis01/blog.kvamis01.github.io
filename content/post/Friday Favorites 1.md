@@ -6,6 +6,12 @@ date: 2026-02-20
 image:
 tags:
   - fridayfavorites
+  - typewriters
+  - dante
+  - brendanleonard
+  - corydoctorow
+  - kimstanleyrobinson
+  - agriculture
 draft: false
 ---
 _Note: After ten years of meaning to, every Friday I’m going to send out a list of things I found and interesting and worth sharing. These posts will share a mix of articles, books, music, art, and ideas that have inspired me. Welcome to the first._

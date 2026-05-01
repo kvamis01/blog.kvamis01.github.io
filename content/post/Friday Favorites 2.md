@@ -6,6 +6,14 @@ date: 2026-02-27
 image:
 tags:
   - fridayfavorites
+  - boniver
+  - ai
+  - jamessomers
+  - dictionary
+  - briandoyle
+  - kurtvonnegut
+  - rossgay
+  - anthonydoerr
 draft: false
 ---
 [Happy Friday](https://youtu.be/57DdZAaS-f8?si=swVHPdsM7TUYBQ9f),

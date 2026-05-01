@@ -6,6 +6,13 @@ date: 2026-03-06
 image:
 tags:
   - fridayfavorites
+  - bobdylan
+  - dictionary
+  - davidfosterwallace
+  - reading
+  - bigsummerbook
+  - vanneistat
+  - brendanleonard
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=eINMxPxfC4U),

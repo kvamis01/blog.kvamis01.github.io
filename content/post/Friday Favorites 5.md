@@ -6,6 +6,12 @@ date: 2026-03-20
 image:
 tags:
   - fridayfavorites
+  - typewriters
+  - chucknorris
+  - willienelson
+  - davidbyrne
+  - darwin
+  - tolkien
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=IAYZW-kPRnw),

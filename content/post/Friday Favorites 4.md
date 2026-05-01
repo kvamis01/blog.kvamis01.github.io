@@ -6,6 +6,15 @@ date: 2026-03-13
 image:
 tags:
   - fridayfavorites
+  - adventurejournal
+  - bobdylan
+  - austinkleon
+  - corydoctorow
+  - rss
+  - dictionary
+  - karloveknausgard
+  - proust
+  - tolkien
 draft: false
 ---
 [Happy Friday](https://youtu.be/DfHvCrGAo1A),

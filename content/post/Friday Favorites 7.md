@@ -6,6 +6,17 @@ date: 2026-04-03
 image:
 tags:
   - fridayfavorites
+  - boniver
+  - bigsummerbook
+  - ladybirdjohnson
+  - birds
+  - loficinema
+  - comfortcrisis
+  - misogi
+  - caseyneistat
+  - anniedillard
+  - rickrubin
+  - dante
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=p3N2ZGSCOAw&list=RDp3N2ZGSCOAw&start_radio=1),
