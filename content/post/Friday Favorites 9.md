@@ -6,6 +6,16 @@ date: 2026-04-17
 image:
 tags:
   - fridayfavorites
+  - peterheller
+  - sigurdolson
+  - richardfeynman
+  - anniedillard
+  - writerdeck
+  - davidbyrne
+  - transcendentalists
+  - richardpowers
+  - anthonydoerr
+  - robertmoor
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=bEgMvmWD1Y8&list=RDbEgMvmWD1Y8&start_radio=1&pp=ygUOZ29vZCwgcmVhbCBiZXKgBwE%3D),

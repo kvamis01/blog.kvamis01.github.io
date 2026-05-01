@@ -6,6 +6,14 @@ date: 2026-04-10
 image:
 tags:
   - fridayfavorites
+  - transcendentalists
+  - emerson
+  - iraglass
+  - austinkleon
+  - anniedillard
+  - edwardabbey
+  - aldoleopold
+  - johnsteinbeck
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=2MRdtXWcgIw&list=RD2MRdtXWcgIw&start_radio=1),

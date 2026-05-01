@@ -6,6 +6,19 @@ date: 2026-04-24
 image:
 tags:
   - fridayfavorites
+  - karloveknausgard
+  - austinkleon
+  - dante
+  - hozier
+  - emerson
+  - robertgross
+  - octaviabutler
+  - vanneistat
+  - robertmoor
+  - huntersthompson
+  - callanwink
+  - normanmaclean
+  - transcendentalists
 draft: false
 ---
 Happy Friday,
