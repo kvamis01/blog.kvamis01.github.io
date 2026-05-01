@@ -22,7 +22,7 @@ draft: false
 ---
 Happy Friday,
 
-[Queue the music](https://youtu.be/beQXLk_6LJE?si=kIfw_uiOF1nxxjWz&t=358), brew that pot. I spent my afternoons this week dethatching my lawn ([lawns are stupid](https://www.hatchmag.com/blog/green-menace/7713546)) by hand with a rake before having the good sense to rent a power rake for an hour. At least I listened to a bunch of “[Butcher’s Crossing](https://bookshop.org/p/books/butcher-s-crossing-john-williams/22e4fb5fb6308add?ean=9781590171981&next=t&).”
+[Cue the music](https://youtu.be/beQXLk_6LJE?si=kIfw_uiOF1nxxjWz&t=358), brew that pot. I spent my afternoons this week dethatching my lawn ([lawns are stupid](https://www.hatchmag.com/blog/green-menace/7713546)) by hand with a rake before having the good sense to rent a power rake for an hour. At least I listened to a bunch of “[Butcher’s Crossing](https://bookshop.org/p/books/butcher-s-crossing-john-williams/22e4fb5fb6308add?ean=9781590171981&next=t&).”
 
 Here are 10 interesting things worth sharing this week:
 

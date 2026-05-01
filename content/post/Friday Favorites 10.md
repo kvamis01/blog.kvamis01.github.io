@@ -23,7 +23,7 @@ draft: false
 ---
 Happy Friday,
 
-[Queue the music](https://www.youtube.com/watch?v=F9gKVduzVEA&list=RDF9gKVduzVEA&start_radio=1), brew that pot. Minnesota’s afternoon rainstorms have been perfect for reading, writing, and sitting on the couch.
+[Cue the music](https://www.youtube.com/watch?v=F9gKVduzVEA&list=RDF9gKVduzVEA&start_radio=1), brew that pot. Minnesota’s afternoon rainstorms have been perfect for reading, writing, and sitting on the couch.
 
 Here are 10 interesting things worth sharing this week:
 
