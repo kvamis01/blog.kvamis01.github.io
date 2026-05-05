@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Start with the end
-subtitle: Subtitle
+subtitle:
 date: 2026-05-05
 image:
 tags:
