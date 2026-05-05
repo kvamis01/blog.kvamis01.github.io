@@ -30,7 +30,7 @@ Caro shares more about his writing process in his book “[Working](https://book
 
 The hard part about writing isn’t the writing — it’s the thinking. By outlining first and then writing his drafts by hand, Caro forces himself to slow down his thoughts, figure out what he’s trying to say, and then focus on writing well.
 
-![](/img/Caros-last-lines.jpg)
+![](/img/Caros-last-lines-books.jpg)
 *The last lines of Caro's books (Clockwise from top left: The Power Broker, The Path to Power, Means of Ascent, Working, The Passage of Power, Master of the Senate).*
 
 This is my biggest gripe with people using AI to write: losing the thinking that goes into writing. Outsourcing your writing to a machine might get you words faster, but fast is irrelevant if it brings you somewhere you didn’t mean to go. Worse, you might not even stop to think and recognize it brought you somewhere you didn’t mean to go.
