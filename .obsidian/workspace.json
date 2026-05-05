@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 11.md",
+                "file": "content/post/Start with the end.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 11"
+              "title": "Start with the end"
             }
           }
         ]
@@ -173,20 +173,29 @@
   },
   "active": "1d9e67f6d2c61192",
   "lastOpenFiles": [
+    "docs/tags/williamzinsser/page/1/index.html",
+    "docs/tags/williamzinsser/page/1",
+    "docs/tags/williamzinsser/page",
+    "docs/tags/williamzinsser/index.html",
+    "docs/tags/williamzinsser",
+    "docs/tags/robertcaro/page/1/index.html",
+    "docs/tags/robertcaro/page/1",
+    "docs/tags/robertcaro/page",
+    "docs/tags/robertcaro/index.html",
+    "docs/tags/robertcaro",
+    "docs/tags/outlining/page/1/index.html",
+    "docs/img/Caros-last-lines.jpg",
+    "docs/img/Zinsser.jpeg",
+    "docs/img/Caro-books.jpeg",
+    "static/img/Zinsser.jpeg",
+    "static/img/Caros-last-lines.jpg",
+    "static/img/Caro-books.jpeg",
+    "content/post/_Test.md",
+    "content/post/Start with the end.md",
+    "content/post/Friday Favorites 11.md",
     "content/post/Friday Favorites 10.md",
     "content/post/Friday Favorites 9.md",
-    "content/post/Friday Favorites 11.md",
     "content/post/Saving articles (too many articles).md",
-    "docs/tags/willienelson/index.xml",
-    "docs/tags/talkingheads/index.xml",
-    "docs/tags/rss/index.xml",
-    "docs/tags/tolkien/index.xml",
-    "docs/tags/rossgay/index.xml",
-    "docs/tags/thoreau/index.xml",
-    "docs/tags/reading/index.xml",
-    "docs/tags/proust/index.xml",
-    "docs/tags/rickrubin/index.xml",
-    "docs/tags/misogi/index.xml",
     "content/post/Perfectionism is an act of cowardice.md",
     "content/post/Cory Doctorow's writing routine.md",
     "content/post/Create, but don’t stay cooped up for too long.md",
@@ -203,20 +212,12 @@
     "content/post/Secondary reading.md",
     "static/img/Notion-article.png",
     "static/img/Notion-list.png",
-    "content/post/_Test.md",
-    "docs/img/Pasted image 20260421150619.png",
-    "static/img/Pasted image 20260421150619.png",
-    "docs/img/Inferno.jpeg",
-    "docs/img/Inferno 2.jpeg",
-    "static/img/Pasted image 20260420192951.png",
-    "static/img/Inferno 2.jpeg",
     "templates/blog-post.md",
     "content/post/Untitled.md",
     "content/post/Testing my publishing environment.md",
     "content/post/The year of vonnegut..md",
     "content/post/2026-03-01.md",
     "templates/blog-post.md.md",
-    "content/post/Untitled 2.md",
-    "content/post/asdf.md"
+    "content/post/Untitled 2.md"
   ]
 }
