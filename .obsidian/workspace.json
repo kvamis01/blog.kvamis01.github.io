@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Start with the end.md",
+                "file": "content/post/Friday Favorites 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start with the end"
+              "title": "Friday Favorites 12"
             }
           }
         ]
@@ -173,28 +173,30 @@
   },
   "active": "1d9e67f6d2c61192",
   "lastOpenFiles": [
+    "docs/tags/joandidion/index.xml",
+    "docs/tags/findingforrester/index.xml",
+    "docs/tags/braxtonhaugen/index.xml",
+    "docs/tags/marynorris/page/1/index.html",
+    "docs/tags/marynorris/page/1",
+    "docs/tags/marynorris/index.html",
+    "docs/tags/marynorris/page",
+    "docs/tags/marynorris",
+    "docs/tags/joandidion/page/1/index.html",
+    "docs/tags/joandidion/page/1",
+    "docs/tags/joandidion/page",
+    "content/post/Friday Favorites 11.md",
+    "content/post/Friday Favorites 12.md",
+    "content/post/Start with the end.md",
     "docs/img/Caros-last-lines.jpg",
     "docs/img/Caros-last-lines-books.jpg",
     "static/img/Caros-last-lines-books.jpg",
-    "content/post/Start with the end.md",
     "docs/img/Caro-books.jpeg",
     "content/post/Create, but don’t stay cooped up for too long.md",
     "content/post/Friday Favorites 9.md",
     "content/post/Friday Favorites 10.md",
-    "content/post/Friday Favorites 11.md",
     "content/post/Perfectionism is an act of cowardice.md",
     "content/post/Saving articles (too many articles).md",
     "content/post/Secondary reading.md",
-    "docs/tags/williamzinsser/index.xml",
-    "docs/tags/robertcaro/index.xml",
-    "docs/tags/outlining/index.xml",
-    "docs/tags/williamzinsser/page/1/index.html",
-    "docs/tags/williamzinsser/page/1",
-    "docs/tags/williamzinsser/page",
-    "docs/tags/williamzinsser/index.html",
-    "docs/tags/williamzinsser",
-    "docs/tags/robertcaro/page/1/index.html",
-    "docs/tags/robertcaro/page/1",
     "docs/img/Zinsser.jpeg",
     "static/img/Zinsser.jpeg",
     "static/img/Caros-last-lines.jpg",
@@ -211,13 +213,11 @@
     "content/post/Friday Favorites 5.md",
     "docs/img/Notion-article.png",
     "docs/img/Notion-list.png",
-    "static/img/Notion-article.png",
     "templates/blog-post.md",
     "content/post/Untitled.md",
     "content/post/Testing my publishing environment.md",
     "content/post/The year of vonnegut..md",
     "content/post/2026-03-01.md",
-    "templates/blog-post.md.md",
-    "content/post/Untitled 2.md"
+    "templates/blog-post.md.md"
   ]
 }
