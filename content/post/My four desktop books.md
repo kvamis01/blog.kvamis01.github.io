@@ -11,7 +11,7 @@ tags:
   - davidfosterwallace
   - mariapopova
   - marynorris
-draft: true
+draft: false
 ---
 I wrote in [my last post](https://blog.isakkvam.com/post/friday-favorites-12/) that I keep four reference books on my writing desk: a dictionary, a usage dictionary, a thesaurus, and a copy production book.
 
