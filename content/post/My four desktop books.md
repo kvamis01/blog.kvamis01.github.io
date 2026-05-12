@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My four desktop books
-subtitle: Subtitle
+subtitle:
 date: 2026-05-12
 image:
 tags:
