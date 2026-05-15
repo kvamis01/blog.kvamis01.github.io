@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/My four desktop books.md",
+                "file": "content/post/Friday Favorites 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My four desktop books"
+              "title": "Friday Favorites 13"
             }
           }
         ]
@@ -173,17 +173,21 @@
   },
   "active": "1d9e67f6d2c61192",
   "lastOpenFiles": [
-    "docs/tags/thesaurus/index.xml",
-    "docs/tags/mariapopova/index.xml",
-    "docs/tags/thesaurus/page/1/index.html",
-    "docs/tags/thesaurus/page/1",
-    "docs/tags/thesaurus/page",
-    "docs/tags/thesaurus/index.html",
-    "docs/tags/thesaurus",
-    "docs/tags/mariapopova/page/1/index.html",
-    "docs/tags/mariapopova/page/1",
-    "docs/tags/mariapopova/page",
-    "docs/tags/mariapopova/index.html",
+    "docs/tags/georgesaunders/index.xml",
+    "docs/tags/harrisonford/index.xml",
+    "docs/tags/ellenburstyn/index.xml",
+    "docs/tags/cristinavane/index.xml",
+    "docs/tags/bazluhrmann/index.xml",
+    "docs/tags/annabrones/index.xml",
+    "docs/tags/zaralarson/page/1/index.html",
+    "docs/tags/zaralarson/page/1",
+    "docs/tags/zaralarson/page",
+    "docs/tags/zaralarson/index.html",
+    "docs/tags/zaralarson",
+    "content/post/Friday Favorites 4.md",
+    "content/post/Friday Favorites 13.md",
+    "content/post/_Template.md",
+    "content/post/My four desktop books.md",
     "docs/img/Words-into-Type.jpeg",
     "docs/img/Rogets-thesaurus.jpeg",
     "docs/img/Collegiate-dictionary.jpeg",
@@ -191,11 +195,9 @@
     "docs/img/Desktop-books.jpeg",
     "static/img/Words-into-Type.jpeg",
     "static/img/Words-into-type.jpeg",
-    "content/post/My four desktop books.md",
     "static/img/Garners-dictionary.jpeg",
     "static/img/Rogets-thesaurus.jpeg",
     "static/img/Collegiate-dictionary.jpeg",
-    "content/post/_Template.md",
     "content/post/Friday Favorites 12.md",
     "content/post/Friday Favorites 11.md",
     "content/post/Start with the end.md",
@@ -212,12 +214,10 @@
     "content/post/Friday Favorites 8.md",
     "content/post/Friday Favorites 6.md",
     "content/post/Friday Favorites 7.md",
-    "content/post/Friday Favorites 4.md",
     "content/post/Friday Favorites 5.md",
     "templates/blog-post.md",
     "content/post/Untitled.md",
     "content/post/Testing my publishing environment.md",
-    "content/post/The year of vonnegut..md",
-    "content/post/2026-03-01.md"
+    "content/post/The year of vonnegut..md"
   ]
 }

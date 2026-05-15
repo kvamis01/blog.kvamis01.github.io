@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title
-subtitle: Subtitle
+subtitle:
 date: 2024-02-22
 image:
 tags:
