@@ -15,7 +15,6 @@ tags:
   - bazluhrmann
   - zaralarson
   - cristinavane
-  - ellenburstyn
 draft: false
 ---
 [Happy Friday](https://www.youtube.com/watch?v=FmAwFPqHTe0),
@@ -33,7 +32,7 @@ Here are 10 interesting things worth sharing this week:
 7. It’s the season of commencement speeches: I prefer [Harrison Ford’s](https://www.youtube.com/watch?v=GtFiQsrxWGU) to the viral AI one going around. But DFW’s [“This Is Water” speech](https://www.youtube.com/watch?v=DCbGM4mqEVw) and [Baz Luhrmann’s sunscreen speech](https://www.youtube.com/watch?v=sTJ7AzBIJoI&list=RDsTJ7AzBIJoI&start_radio=1) are my two all-time favs.
 8. We’re on the Zara Larson hype train in our household, and the [viral clip of her](https://www.tiktok.com/t/ZTkE9wovS/) being very tired (and relatable) doing a 5 a.m. sound check for The Today Show is how I feel being on a video call before 10:30 or so.
 9. Western AF introduces me to a lot of great music, but I’ve come back to “[Wishing Bone Blues](https://www.youtube.com/watch?v=kVEzjDKftrY&list=RDkVEzjDKftrY&start_radio=1)” by Cristina Vane so many times over the years, I think I’m responsible for 1/10th of the views. Such a good guitar solo.
-10. “Art is where what we survive survives.” I’ve been meaning to memorize poetry for a while (another creative backlog item!); I think [Ellen Burstyn](https://www.nytimes.com/2026/05/14/books/review/ellen-burstyn-poetry-says-it-better.html) has the right idea.
+10. I wrote about [the four reference books](https://blog.isakkvam.com/post/my-four-desktop-books/) I keep on my writing desk and had a great time paging through my usage history again — another encouragement from DFW!
 
 [See you on down the dusty trail](https://bsky.app/profile/isakkvam.bsky.social/post/3mltqdrgwus2g),
 
