@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82d0af65202e2f89",
+        "id": "e6db0c28976ae454",
         "type": "tabs",
         "children": [
           {
-            "id": "1d9e67f6d2c61192",
+            "id": "71db87594c3d2f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 13.md",
+                "file": "content/post/A writing space of one's own.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 13"
+              "title": "A writing space of one's own"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "casey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,33 +171,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d9e67f6d2c61192",
+  "active": "71db87594c3d2f58",
   "lastOpenFiles": [
-    "docs/tags/zaralarson/index.xml",
-    "docs/tags/tomhanks/index.xml",
-    "docs/tags/solarpunk/index.xml",
-    "docs/tags/georgesaunders/index.xml",
-    "docs/tags/harrisonford/index.xml",
-    "docs/tags/ellenburstyn/index.xml",
-    "docs/tags/cristinavane/index.xml",
-    "docs/tags/bazluhrmann/index.xml",
-    "docs/tags/annabrones/index.xml",
-    "docs/tags/zaralarson/page/1/index.html",
-    "docs/tags/zaralarson/page/1",
-    "content/post/Friday Favorites 4.md",
-    "content/post/Friday Favorites 13.md",
+    "docs/tags/wendellberry/page/1/index.html",
+    "docs/tags/wendellberry/page/1",
+    "docs/tags/wendellberry/page",
+    "docs/tags/wendellberry/index.html",
+    "docs/tags/wendellberry",
+    "docs/page/5/index.html",
+    "docs/page/5",
+    "docs/tags/ebwhite/page/1/index.html",
+    "docs/tags/ebwhite/page/1",
+    "docs/tags/ebwhite/page",
+    "docs/tags/ebwhite/index.html",
+    "docs/img/Caro-writing-desk.png",
+    "docs/img/Kleon-Studio.jpg",
+    "docs/img/EB-White-Lakehouse.jpg",
+    "docs/img/Wendell-Berry-Shed.jpg",
+    "docs/img/HST-writing-space.jpg",
+    "docs/img/steinbeck-rocinante-van.png",
+    "docs/img/Kim-Stanley-Robinson.jpg",
+    "docs/img/Steinbeck's-writing-shack.png",
+    "docs/img/Steinbeck's-writing-shack 1.png",
+    "static/img/Kim-Stanley-Robinson.jpg",
     "content/post/_Template.md",
+    "content/post/A writing space of one's own.md",
+    "content/post/Friday Favorites 7.md",
+    "content/post/Friday Favorites 13.md",
+    "content/post/Friday Favorites 4.md",
     "content/post/My four desktop books.md",
-    "docs/img/Words-into-Type.jpeg",
-    "docs/img/Rogets-thesaurus.jpeg",
-    "docs/img/Collegiate-dictionary.jpeg",
-    "docs/img/Garners-dictionary.jpeg",
-    "docs/img/Desktop-books.jpeg",
-    "static/img/Words-into-Type.jpeg",
-    "static/img/Words-into-type.jpeg",
-    "static/img/Garners-dictionary.jpeg",
-    "static/img/Rogets-thesaurus.jpeg",
-    "static/img/Collegiate-dictionary.jpeg",
     "content/post/Friday Favorites 12.md",
     "content/post/Friday Favorites 11.md",
     "content/post/Start with the end.md",
@@ -213,11 +215,9 @@
     "content/post/Friday Favorites 3.md",
     "content/post/Friday Favorites 8.md",
     "content/post/Friday Favorites 6.md",
-    "content/post/Friday Favorites 7.md",
     "content/post/Friday Favorites 5.md",
     "templates/blog-post.md",
     "content/post/Untitled.md",
-    "content/post/Testing my publishing environment.md",
-    "content/post/The year of vonnegut..md"
+    "content/post/Testing my publishing environment.md"
   ]
 }
