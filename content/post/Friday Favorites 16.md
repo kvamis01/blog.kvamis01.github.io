@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Favorites 15
+title: Friday Favorites 16
 subtitle: 10 interesting things I'm recommending this week
 date: 2026-06-05
 image:
