@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What if this were fun?w
+title: What if this were fun?
 subtitle:
 date: 2026-06-09
 image:
@@ -17,7 +17,7 @@ draft: false
 ---
 In the 2010s, I heard Tim Ferriss share a phrase that guided his work: what would this look like if this were easy?
 
-A question I’ve been asking myself this spring is: What if this were fun?
+**A question I’ve been asking myself this spring is: What if this were fun?**
 
 Most of my best work has come from doing something fun. It’s the rule of cool! Having fun is fun, and fun is contagious. You can tell when a writer is bored by their subject and putting no effort into making it more engaging or readable. You can also tell when a writer is having fun, like Bill Bryson or Hunter S. Thompson or Charles Portis.
 
@@ -39,6 +39,6 @@ Having fun means dipping into many books on a whim with no intention of reading 
 
 It means setting up a creative desk — even two!! — with books I like, pens and paper I like, music I like. Tapes I’ve made from plugging a retro tape recorder into my computer and ripped from Spotify so I can just press play instead of be overwhelmed with choice of what music to select.
 
-Increasingly, “What if this was fun?” means doing things analog. Computers are efficient. But what’s efficiency if it brings you somewhere you don’t want to go? Analog is more fun and often brings me somewhere unexpected and different than a computer would.
+Increasingly, “What if this were fun?” means doing things analog. Computers are efficient. But what’s efficiency if it brings you somewhere you don’t want to go? Analog is more fun and often brings me somewhere unexpected and different than a computer would.
 
 On paper, it’s easier for me to get my own nuggets. Maybe it’s something like how Caro says writing by hand forces your thoughts to slow down — and writing is thinking.
