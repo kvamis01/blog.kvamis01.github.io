@@ -34,8 +34,3 @@ Here are 10 interesting things worth sharing this week:
 [See you on down the dusty trail](https://bsky.app/profile/isakkvam.bsky.social/post/3mnv57u4wwc2x),
 
 Isak
-
-Things to include:
-
-- Rachel Carson Lithub story
-- [https://www.totei.com/story/single-sentence-novel-daniel-kraus-jon-fosse](https://www.totei.com/story/single-sentence-novel-daniel-kraus-jon-fosse)
