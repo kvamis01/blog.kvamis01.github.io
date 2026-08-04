@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71db87594c3d2f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Friday Favorites 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Friday Favorites 20"
-            }
-          },
-          {
             "id": "e83f5659a4ef5b39",
             "type": "leaf",
             "state": {
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,6 +190,13 @@
   },
   "active": "6b0d2eed889b76e7",
   "lastOpenFiles": [
+    "docs/tags/massmarket/page/1/index.html",
+    "docs/tags/massmarket/page/1",
+    "docs/tags/massmarket/page",
+    "docs/tags/massmarket/index.html",
+    "docs/tags/massmarket",
+    "docs/post/in-praise-of-mass-market-paperbacks/index.html",
+    "docs/post/in-praise-of-mass-market-paperbacks",
     "docs/img/mass-market-header.jpeg",
     "docs/img/Jung mass market.jpeg",
     "docs/img/mass-markets.jpeg",
@@ -219,12 +212,6 @@
     "docs/tags/markhoppus/index.xml",
     "docs/tags/davidcronenberg/index.xml",
     "docs/tags/charlixcx/index.xml",
-    "docs/tags/beachreads/index.xml",
-    "docs/tags/americanroutes/index.xml",
-    "docs/tags/stevereich/page/1/index.html",
-    "docs/tags/stevereich/page/1",
-    "docs/tags/stevereich/page",
-    "docs/tags/stevereich/index.html",
     "content/post/Friday Favorites 23.md",
     "content/post/Friday Favorites 24.md",
     "content/post/Friday Favorites 22.md",
@@ -245,7 +232,6 @@
     "content/post/Friday Favorites 14.md",
     "content/about/index.md",
     "content/about/index-zh.md",
-    "docs/img/Caro-writing-desk.png",
     "content/post/Friday Favorites 7.md",
     "content/post/Friday Favorites 13.md",
     "content/post/Friday Favorites 4.md",
