@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Friday Favorites 24"
             }
+          },
+          {
+            "id": "6b0d2eed889b76e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/In praise of mass market paperbacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In praise of mass market paperbacks"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,8 +202,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e83f5659a4ef5b39",
+  "active": "6b0d2eed889b76e7",
   "lastOpenFiles": [
+    "docs/img/mass-market-header.jpeg",
+    "docs/img/Jung mass market.jpeg",
+    "docs/img/mass-markets.jpeg",
+    "static/img/mass-markets.jpeg",
+    "static/img/Jung mass market.jpeg",
+    "content/post/Create, but don’t stay cooped up for too long.md",
+    "content/post/A writing space of one's own.md",
+    "content/post/Cory Doctorow's writing routine.md",
+    "content/post/In praise of mass market paperbacks.md",
+    "static/img/mass-market-header.jpeg",
+    "content/post/_Template.md",
     "docs/tags/stevereich/index.xml",
     "docs/tags/markhoppus/index.xml",
     "docs/tags/davidcronenberg/index.xml",
@@ -198,7 +225,6 @@
     "docs/tags/stevereich/page/1",
     "docs/tags/stevereich/page",
     "docs/tags/stevereich/index.html",
-    "docs/tags/stevereich",
     "content/post/Friday Favorites 23.md",
     "content/post/Friday Favorites 24.md",
     "content/post/Friday Favorites 22.md",
@@ -207,7 +233,6 @@
     "content/post/Friday Favorites 12.md",
     "content/post/Strenuous or relaxing time off.md",
     "content/post/The best Minnesota-based writers are sentient energy projects.md",
-    "content/post/_Template.md",
     "content/post/Friday Favorites 18.md",
     "content/post/Friday Favorites 17.md",
     "content/post/What if this were fun?.md",
@@ -220,19 +245,10 @@
     "content/post/Friday Favorites 14.md",
     "content/about/index.md",
     "content/about/index-zh.md",
-    "content/post/A writing space of one's own.md",
     "docs/img/Caro-writing-desk.png",
-    "docs/img/Kleon-Studio.jpg",
-    "docs/img/EB-White-Lakehouse.jpg",
-    "docs/img/Wendell-Berry-Shed.jpg",
-    "docs/img/HST-writing-space.jpg",
-    "docs/img/steinbeck-rocinante-van.png",
     "content/post/Friday Favorites 7.md",
     "content/post/Friday Favorites 13.md",
     "content/post/Friday Favorites 4.md",
-    "content/post/My four desktop books.md",
-    "content/post/Friday Favorites 11.md",
-    "content/post/Start with the end.md",
-    "content/post/Create, but don’t stay cooped up for too long.md"
+    "content/post/My four desktop books.md"
   ]
 }
