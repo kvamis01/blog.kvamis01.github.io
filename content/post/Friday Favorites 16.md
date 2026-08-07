@@ -14,6 +14,7 @@ tags:
   - stephenking
   - tolkien
   - caseyneistat
+  - typewriters
 draft: false
 ---
 Happy Friday,

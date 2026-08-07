@@ -6,6 +6,15 @@ date: 2026-06-19
 image:
 tags:
   - fridayfavorites
+  - paradiselost
+  - bigsummerbook
+  - anniedillard
+  - elmoreleonard
+  - tommcguane
+  - stephenking
+  - kurtvonnegut
+  - huntersthompson
+  - maryoliver
 draft: false
 ---
 Happy Friday,

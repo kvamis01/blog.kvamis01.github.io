@@ -6,6 +6,19 @@ date: 2026-07-17
 image:
 tags:
   - fridayfavorites
+  - climatechange
+  - wildfires
+  - creativenemesis
+  - writingfromthenegative
+  - rossgay
+  - boniver
+  - stephenking
+  - davidbyrne
+  - vanneistat
+  - typewriters
+  - timeintensiveprojects
+  - analog
+  - adventurejournal
 draft: false
 ---
 Happy Friday,

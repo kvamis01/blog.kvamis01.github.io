@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e6db0c28976ae454",
+        "id": "7dc10b81384fff86",
         "type": "tabs",
         "children": [
           {
-            "id": "e83f5659a4ef5b39",
+            "id": "dffb0714a15a9366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 24.md",
+                "file": "content/post/Friday Favorites 25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 24"
-            }
-          },
-          {
-            "id": "6b0d2eed889b76e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/In praise of mass market paperbacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In praise of mass market paperbacks"
+              "title": "Friday Favorites 25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "casey",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,53 +173,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b0d2eed889b76e7",
+  "active": "dffb0714a15a9366",
   "lastOpenFiles": [
-    "docs/tags/massmarket/page/1/index.html",
-    "docs/tags/massmarket/page/1",
-    "docs/tags/massmarket/page",
-    "docs/tags/massmarket/index.html",
-    "docs/tags/massmarket",
-    "docs/post/in-praise-of-mass-market-paperbacks/index.html",
-    "docs/post/in-praise-of-mass-market-paperbacks",
+    "docs/tags/creativenemesis/index.xml",
+    "docs/tags/climatechange/index.xml",
+    "docs/tags/andrewloura/index.xml",
+    "docs/tags/adaptation/index.xml",
+    "docs/tags/typewriters/page/3/index.html",
+    "docs/tags/typewriters/page/3",
+    "docs/tags/vanneistat/page/2/index.html",
+    "docs/tags/vanneistat/page/2",
+    "docs/tags/wildfires/page/1/index.html",
+    "docs/tags/wildfires/page/1",
+    "docs/tags/wildfires/page",
+    "content/post/Friday Favorites 24.md",
+    "content/post/Friday Favorites 25.md",
+    "content/post/Friday Favorites 16.md",
+    "content/post/Friday Favorites 15.md",
+    "content/post/Friday Favorites 14.md",
+    "content/post/Friday Favorites 13.md",
+    "content/post/Friday Favorites 12.md",
+    "content/post/Friday Favorites 11.md",
+    "content/post/Friday Favorites 9.md",
+    "content/post/Friday Favorites 5.md",
+    "content/post/Friday Favorites 3.md",
+    "content/post/Friday Favorites 1.md",
+    "content/post/Create, but don’t stay cooped up for too long.md",
+    "content/post/A writing space of one's own.md",
+    "content/post/Friday Favorites 2.md",
+    "content/post/Friday Favorites 4.md",
+    "content/post/Friday Favorites 6.md",
+    "content/post/Friday Favorites 7.md",
+    "content/post/Friday Favorites 8.md",
+    "content/post/Friday Favorites 10.md",
+    "content/post/Friday Favorites 17.md",
+    "content/post/Friday Favorites 18.md",
+    "content/post/Friday Favorites 20.md",
+    "content/post/Friday Favorites 21.md",
+    "content/post/Friday Favorites 22.md",
     "docs/img/mass-market-header.jpeg",
     "docs/img/Jung mass market.jpeg",
     "docs/img/mass-markets.jpeg",
     "static/img/mass-markets.jpeg",
     "static/img/Jung mass market.jpeg",
-    "content/post/Create, but don’t stay cooped up for too long.md",
-    "content/post/A writing space of one's own.md",
-    "content/post/Cory Doctorow's writing routine.md",
-    "content/post/In praise of mass market paperbacks.md",
     "static/img/mass-market-header.jpeg",
-    "content/post/_Template.md",
-    "docs/tags/stevereich/index.xml",
-    "docs/tags/markhoppus/index.xml",
-    "docs/tags/davidcronenberg/index.xml",
-    "docs/tags/charlixcx/index.xml",
-    "content/post/Friday Favorites 23.md",
-    "content/post/Friday Favorites 24.md",
-    "content/post/Friday Favorites 22.md",
-    "content/post/Friday Favorites 21.md",
-    "content/post/Friday Favorites 20.md",
-    "content/post/Friday Favorites 12.md",
-    "content/post/Strenuous or relaxing time off.md",
-    "content/post/The best Minnesota-based writers are sentient energy projects.md",
-    "content/post/Friday Favorites 18.md",
-    "content/post/Friday Favorites 17.md",
-    "content/post/What if this were fun?.md",
     "docs/img/Don't-Call-It-Art.jpeg",
     "docs/img/Writerdeck.jpeg",
     "static/img/Writerdeck.jpeg",
-    "static/img/Don't-Call-It-Art.jpeg",
-    "content/post/Friday Favorites 16.md",
-    "content/post/Friday Favorites 15.md",
-    "content/post/Friday Favorites 14.md",
-    "content/about/index.md",
-    "content/about/index-zh.md",
-    "content/post/Friday Favorites 7.md",
-    "content/post/Friday Favorites 13.md",
-    "content/post/Friday Favorites 4.md",
-    "content/post/My four desktop books.md"
+    "static/img/Don't-Call-It-Art.jpeg"
   ]
 }
