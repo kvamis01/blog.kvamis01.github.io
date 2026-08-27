@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 27.md",
+                "file": "content/post/Reading out of season.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 27"
+              "title": "Reading out of season"
             }
           }
         ]
@@ -175,28 +175,33 @@
   },
   "active": "dffb0714a15a9366",
   "lastOpenFiles": [
+    "docs/tags/seasons/page/1/index.html",
+    "docs/tags/seasons/page/1",
+    "docs/tags/seasons/page",
+    "docs/tags/seasons/index.html",
+    "docs/tags/seasons",
+    "docs/page/9/index.html",
+    "docs/page/9",
+    "docs/img/Winter.jpeg",
+    "docs/img/The-Terror.jpeg",
+    "docs/img/Summer.jpeg",
+    "docs/post/reading-out-of-season/index.html",
+    "docs/post/reading-out-of-season",
+    "static/img/Winter.jpeg",
+    "static/img/Summer.jpeg",
+    "static/img/The-Terror.jpeg",
+    "content/post/_Template.md",
+    "content/post/Reading out of season.md",
+    "content/post/Friday Favorites 27.md",
     "docs/tags/fridayfavorites/page/6/index.html",
     "docs/tags/fridayfavorites/page/6",
-    "docs/post/friday-favorites-27/index.html",
-    "docs/post/friday-favorites-27",
     "content/post/That time Thoreau started a wildfire.md",
-    "content/post/Friday Favorites 27.md",
-    "docs/post/that-time-thoreau-started-a-wildfire/index.html",
-    "docs/post/that-time-thoreau-started-a-wildfire",
     "docs/img/Thoreau.jpg",
     "static/img/Thoreau.jpg",
-    "content/post/_Template.md",
     "content/post/Friday Favorites 26.md",
-    "docs/tags/nostalgia/index.xml",
-    "docs/tags/michaelpollan/index.xml",
-    "docs/tags/maps/index.xml",
-    "docs/tags/howiwrite/index.xml",
-    "docs/tags/eohoaglund/index.xml",
     "content/post/My favorite niche thing in biographies.md",
     "docs/img/Thoreau + LBJ.jpeg",
     "docs/img/Thoreau's Journal.jpeg",
-    "static/img/Thoreau + LBJ.jpeg",
-    "static/img/Thoreau's Journal.jpeg",
     "content/post/Friday Favorites 25.md",
     "content/post/Friday Favorites 24.md",
     "content/post/Friday Favorites 16.md",
@@ -215,11 +220,6 @@
     "content/post/Friday Favorites 4.md",
     "content/post/Friday Favorites 6.md",
     "content/post/Friday Favorites 7.md",
-    "content/post/Friday Favorites 8.md",
-    "content/post/Friday Favorites 10.md",
-    "docs/img/mass-market-header.jpeg",
-    "docs/img/Jung mass market.jpeg",
-    "docs/img/mass-markets.jpeg",
-    "static/img/mass-markets.jpeg"
+    "content/post/Friday Favorites 8.md"
   ]
 }
