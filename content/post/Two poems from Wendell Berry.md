@@ -18,8 +18,8 @@ I read one of his books of agrarian essays in college, but what’s stuck with m
 
 > **The Peace of the Wild Things**  
 > _Wendell Berry_
-
-When despair for the world grows in me  
+> 
+> When despair for the world grows in me  
 and I wake in the night at the least sound  
 in fear of what my life and my children’s lives may be,  
 I go and lie down where the wood drake  
@@ -43,8 +43,8 @@ Another Berry poem I like is “A Meeting”:
 
 > **A Meeting**  
 > _Wendell Berry_
-
-In a dream I meet  
+> 
+> In a dream I meet  
 my dead friend. He has,  
 I know, gone long and far,  
 and yet he is the same.  
