@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Friday Favorites 29.md",
+                "file": "content/post/Separate your writing from how you feel about your writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday Favorites 29"
+              "title": "Separate your writing from how you feel about your writing"
             }
           }
         ]
@@ -175,6 +175,11 @@
   },
   "active": "dffb0714a15a9366",
   "lastOpenFiles": [
+    "docs/post/separate-your-writing-from-how-you-feel-about-your-writing/index.html",
+    "docs/post/separate-your-writing-from-how-you-feel-about-your-writing",
+    "content/post/Cory Doctorow's writing routine.md",
+    "content/post/Separate your writing from how you feel about your writing.md",
+    "content/post/_Template.md",
     "content/post/Friday Favorites 29.md",
     "content/post/Friday Favorites 29.md",
     "content/post/In praise of mass market paperbacks.md",
@@ -188,7 +193,6 @@
     "docs/tags/tedgioia/page",
     "docs/tags/tedgioia/index.html",
     "docs/tags/tedgioia",
-    "docs/tags/mountainandprairie/page/1/index.html",
     "content/post/Two poems from Wendell Berry.md",
     "docs/img/Peace-of-Wild-Things-poem.jpeg",
     "docs/img/Wendell-Berry-Typewriting.jpeg",
@@ -196,7 +200,6 @@
     "static/img/A-Meeting-poem.jpeg",
     "static/img/Wendell-Berry-Typewriting.jpeg",
     "static/img/Peace-of-Wild-Things-poem.jpeg",
-    "content/post/_Template.md",
     "content/post/Friday Favorites 27.md",
     "content/post/Reading out of season.md",
     "docs/img/Winter.jpeg",
@@ -217,9 +220,6 @@
     "content/post/Friday Favorites 9.md",
     "content/post/Friday Favorites 5.md",
     "content/post/Friday Favorites 3.md",
-    "content/post/Friday Favorites 1.md",
-    "content/post/Create, but don’t stay cooped up for too long.md",
-    "content/post/A writing space of one's own.md",
-    "content/post/Friday Favorites 2.md"
+    "content/post/Friday Favorites 1.md"
   ]
 }
