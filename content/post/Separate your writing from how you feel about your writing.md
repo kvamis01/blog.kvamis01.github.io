@@ -5,6 +5,11 @@ subtitle:
 date: 2026-09-10
 image:
 tags:
+  - writing
+  - corydoctorow
+  - rfkuang
+  - verlynklinkenberg
+  - charlesportis
 draft: false
 ---
 I’ve [written about](https://blog.isakkvam.com/post/cory-doctorows-writing-routine/) how Cory Doctorow consciously separates how he _feels_ about his writing from the writing _itself_:
