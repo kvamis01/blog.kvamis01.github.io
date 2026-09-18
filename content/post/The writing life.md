@@ -5,7 +5,9 @@ subtitle:
 date: 2024-02-22
 image:
 tags:
-draft: true
+  - anniedillard
+  - thewritinglife
+draft: false
 ---
 Annie Dillard died on Wednesday, who’s been one of my top influences, inspirations, and mysterious benefactor of writing wisdom for the past 10 years.
 
