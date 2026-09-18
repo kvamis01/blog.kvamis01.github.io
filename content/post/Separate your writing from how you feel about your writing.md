@@ -10,6 +10,7 @@ tags:
   - rfkuang
   - verlynklinkenberg
   - charlesportis
+  - writingfeelings
 draft: false
 ---
 I’ve [written about](https://blog.isakkvam.com/post/cory-doctorows-writing-routine/) how Cory Doctorow consciously separates how he _feels_ about his writing from the writing _itself_:
