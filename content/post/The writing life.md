@@ -1,21 +1,17 @@
 ---
 layout: post
-title: In praise of mass market paperbacks
-subtitle: The best book format
-date: 2026-08-04
+title: The writing life
+subtitle:
+date: 2024-02-22
 image:
 tags:
-  - massmarket
-  - books
-  - reading
-  - stephenking
-draft: false
+draft: true
 ---
 Annie Dillard died on Wednesday, who’s been one of my top influences, inspirations, and mysterious benefactor of writing wisdom for the past 10 years.
 
 Her book, “The Writing Life,” is one of my favorite books about writing, but because she’s such a good writer, it doesn’t even rank in my Top 3 Best Dillard Books. Maybe Top 5. Maybe. Because each of her books is so good, and teach you so much about life and nature and philosophy and writing — her book about how to write and how to live is just the surface.
 
-![Dillard.jpeg](attachment:f0cd3141-7f99-428c-a6ad-32d1a817e7a3:Dillard.jpeg)
+![](/img/Dillard.jpeg)
 
 And speaking of scratching the surface, here are a few of my favorite excerpts from “The Writing Life,” none of which will do justice for how much I love her writing without full context.
 
