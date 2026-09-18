@@ -2,7 +2,7 @@
 layout: post
 title: The writing life
 subtitle:
-date: 2024-02-22
+date: 2026-09-17
 image:
 tags:
   - anniedillard
