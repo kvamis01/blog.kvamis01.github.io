@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stop worrying about if you’re good
-subtitle: Subtitle
+subtitle:
 date: 2026-09-18
 image:
 tags:
