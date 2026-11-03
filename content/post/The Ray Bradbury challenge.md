@@ -9,7 +9,7 @@ tags:
   - writing
 draft: false
 ---
-Ray Bradbury [has advice]([![](https://www.youtube.com/s/desktop/46f6e5ef/img/favicon_144x144.png)University of California Television (UCTV)An Evening with Ray Bradbury 2001](https://www.youtube.com/watch?v=_W-r7ABrMYU&t=2105s)) for beginning and intermediate writers: stuff your head full of good ideas by reading one poem, one short story, and one essay every night before bed. Then write one short story a week. Do this for a year, two years, 1,000 days — and you’ll be on your way.
+Ray Bradbury [has advice](https://www.youtube.com/watch?v=_W-r7ABrMYU&t=2105s) for beginning and intermediate writers: stuff your head full of good ideas by reading one poem, one short story, and one essay every night before bed. Then write one short story a week. Do this for a year, two years, 1,000 days — and you’ll be on your way.
 
 There’s a lot that I love about this advice, which has been dubbed the Ray Bradbury Challenge online.
 
