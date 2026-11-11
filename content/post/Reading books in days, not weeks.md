@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Title
-subtitle: Reading books in days, not weeks
+title: Reading books in days, not weeks
+subtitle:
 date: 2026-11-11
 image:
 tags:
