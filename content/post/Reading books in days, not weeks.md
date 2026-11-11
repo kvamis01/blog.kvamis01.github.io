@@ -13,7 +13,7 @@ draft: false
 ---
 I love reading a book that’s so good you start and finish it in a day or two.
 
-I stayed up late on a lake vacation reading Peter Heller’s “The River” because I had to know whether the two friends would safely escape a wildfire on their wilderness canoe trip even as they paddled closer to the fire to investigate a missing person.
+I stayed up late on a lake vacation reading Peter Heller’s “The River” because I had to know whether the two friends would safely escape a wildfire on their wilderness canoe trip even as they paddled closer to the fire to investigate a missing person. 
 
 I _technically_ read Agatha Christie’s “And Then There Were None” in one go, because when I fell asleep only three-quarters of the way through it, I woke up the next morning and immediately finished it before getting out of bed. There was a full 8 hours of sleep between the start and end, but it’s one go if I didn’t get out of bed!
 
