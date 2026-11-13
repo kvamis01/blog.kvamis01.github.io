@@ -1,3 +1,4 @@
 {
-  "accentColor": "#f4861f"
+  "accentColor": "#f4861f",
+  "showRibbon": true
 }
